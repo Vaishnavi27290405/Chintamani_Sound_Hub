@@ -527,7 +527,7 @@ def calculate_geolocation_transit(request):
               <div className="p-4 rounded-xl bg-purple-950/50 border border-purple-500/20 text-xs text-purple-200 leading-relaxed flex items-center gap-3">
                 <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0" />
                 <span>
-                  Django Admin will be running at <strong>http://127.0.0.1:8000/admin/</strong> where you can view live bookings, export GST invoices, and edit sound rig inventory!
+                  Django Admin will be running at <strong>http://https://chintamani-sound-hub.onrender.com/admin/</strong> where you can view live bookings, export GST invoices, and edit sound rig inventory!
                 </span>
               </div>
             </div>
