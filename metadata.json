@@ -1,0 +1,6 @@
+{
+  "name": "Chintamani Sound - LoudLee Series",
+  "description": "Dolby sound system and stage audio productions with online booking, secure payment gateway, instant digital receipts, and SMS/Email notifications.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
